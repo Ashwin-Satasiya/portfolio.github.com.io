@@ -30,7 +30,7 @@ root.render(
         <Route path="/" element={<Layout />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/contact-us" element={<Contact />} />
-        <Route path="/*" element={<PageNotFound />} />
+        {/* <Route path="/*" element={<PageNotFound />} /> */}
 
         {/* Admin panel routing */}
         <Route path="login-admin" element={<LoginAdmin />} />
