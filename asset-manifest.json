@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio.github.com.io/static/css/main.eaa816db.css",
-    "main.js": "/portfolio.github.com.io/static/js/main.d6f7e28e.js",
+    "main.js": "/portfolio.github.com.io/static/js/main.caa7acdc.js",
     "static/js/787.c7a62e83.chunk.js": "/portfolio.github.com.io/static/js/787.c7a62e83.chunk.js",
     "static/media/bootstrap-icons.woff?": "/portfolio.github.com.io/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
     "static/media/bootstrap-icons.woff2?": "/portfolio.github.com.io/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
@@ -15,11 +15,11 @@
     "static/media/avataaars.svg": "/portfolio.github.com.io/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "/portfolio.github.com.io/index.html",
     "main.eaa816db.css.map": "/portfolio.github.com.io/static/css/main.eaa816db.css.map",
-    "main.d6f7e28e.js.map": "/portfolio.github.com.io/static/js/main.d6f7e28e.js.map",
+    "main.caa7acdc.js.map": "/portfolio.github.com.io/static/js/main.caa7acdc.js.map",
     "787.c7a62e83.chunk.js.map": "/portfolio.github.com.io/static/js/787.c7a62e83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaa816db.css",
-    "static/js/main.d6f7e28e.js"
+    "static/js/main.caa7acdc.js"
   ]
 }
