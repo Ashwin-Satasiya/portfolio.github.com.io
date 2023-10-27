@@ -11,12 +11,13 @@ import Layout from "./components/Layout";
 import About from "./components/About";
 import Contact from "./components/Contact";
 // User panel end
-import PageNotFound from "./components/PageNotFound";
+
 // Admin panel start
 import LoginAdmin from "./components/admin/LoginAdmin";
 import LayoutAdmin from "./components/admin/LayoutAdmin";
 import ManageCustomer from "./components/admin/sidebar-components/ManageCustomer";
 // Admin panel end
+
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
