@@ -28,7 +28,7 @@ root.render(
     <BrowserRouter>
       <Routes>
         {/* User panel routing*/}
-        <Route path="/" element={<Layout />} />
+        <Route path="/*" element={<Layout />} />
         <Route path="/about-us" element={<About />} />
         <Route path="/contact-us" element={<Contact />} />
         {/* <Route path="/*" element={<PageNotFound />} /> */}
